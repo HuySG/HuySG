@@ -1,61 +1,84 @@
-
-
-## <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50px" height="50px"></img> About Me
-
-- :credit_card: My full name is **Đỗ Thành Huy** <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right"/>
-- :school: I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and playing with MeowMeow
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px"> About Some Stats
-
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuySG&layout=compact&show_icon=true&theme=algolia" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=HuySG&layout=compact&show_icon=true&theme=algolia"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuySG&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=HuySG&theme=react-dark"/>
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+
+# Hi there <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="36px" height="36px" alt="wave" />, I'm Do Thanh Huy
+
+<a href="https://github.com/HuySG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+Developer+(.NET+%2B+ReactJS);Clean+Architecture+%E2%80%A2+Modular+Monolith;Building+scalable%2C+maintainable+systems" alt="Typing SVG" />
+</a>
+
 </div>
 
-## <img src='https://media0.giphy.com/media/xT9DPIlGnuHpr2yObu/200w.gif?cid=82a1493bjditvv9ye0n30hwgpifxozfowfg365frrabgd62t&rid=200w.gif&ct=g' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+## 🙋‍♂️ About Me
 
-<p align="center">
-  <a href="mailto:dothanhhuy.work@gmail.com" >
-    <img align="center" alt="HuySG | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/do-thanh-huy-0a9826209/" target="_blank">
-    <img align="center" alt="HuySG | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/HuySaiGon100701/" target="_blank">
-      <img align="center" alt="HuySG | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/do_t_huy/?hl=vi" target="_blank">
-    <img align="center" alt="HuySG | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/HuySG" target="_blank">
-    <img align="center" alt="HuySG | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p>
+- 💼 **Full-stack Developer** at **THLONE**, migrating a large-scale enterprise ERP from a legacy PowerBuilder/Oracle desktop app to **.NET 9 + React 19**
+- 🎓 **Bachelor of Software Engineering**, FPT University – Ho Chi Minh City Campus (2019 – 2026)
+- 🌏 Based in **Ho Chi Minh City, Vietnam**
+- 🎯 Focused on building **scalable, maintainable, high-performance** systems, with the long-term goal of becoming a technology expert
+- 🔭 Currently exploring **Clean Architecture**, **DevOps practices**, and **distributed systems** fundamentals
+- 🤖 Using AI-assisted tools to research system design trade-offs, review code quality, and work faster
+- 🐱 Outside of code: sleeping and playing with MeowMeow
+
+## 🛠️ Tech Stack
+
+| | |
+| :-- | :-- |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-0E2A47?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white) ![DevExtreme](https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge) ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white) |
+| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Workflow** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum_(Agile)-6DB33F?style=for-the-badge) |
+| **Architecture** | `Clean Architecture` · `Modular Monolith` · `Microservices (Mediator)` · `RESTful API` · `SOLID` |
+
+## 💼 Experience
+
+**Full-stack Developer** · THLONE · *Mar 2026 – Present*
+
+> Migrating a large-scale enterprise ERP from a legacy PowerBuilder/Oracle desktop app to a modern web stack (.NET 9 + React 19).
+
+- Port PowerBuilder DataWindows and scripts into REST APIs built on Clean Architecture (Dapper, Oracle, server-side paging, JWT)
+- Build React screens with DevExtreme editable grids, lookup popups, PDF/Excel export, and i18n
+- Improve performance with React Query caching and memoization; set up a Jenkins CI/CD pipeline deploying the frontend to IIS
+
+**Backend Developer** · Exps Software · *Mar 2025 – Mar 2026*
+
+> Enterprise internal management system (HRM, CRM, ERP) built as a Modular Monolith with microservice principles.
+
+- Designed and implemented business modules following Clean Architecture and modular monolith principles
+- Defined database schemas and optimized EF Core queries, reducing N+1 issues
+- Contributed to CI/CD with Jenkins and Docker; wrote unit and integration tests; joined architecture discussions and code reviews
+
+**Full-stack Developer (.NET + ReactJS)** · Exps Software · *Aug 2024 – Feb 2025*
+
+> ERP system on .NET 8 covering Product, Sales, Customer, Finance, Logistics, and Contract management.
+
+- Designed and developed the Purchase Management module
+- Optimized database queries and API response time; refactored legacy code toward SOLID principles
+- Built responsive ReactJS + TypeScript UI and integrated it with RESTful APIs across modules
+
+## 📊 GitHub Stats
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Do Thanh Huy HuySG
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HuySG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuySG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HuySG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuySG&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:dothanhhuy.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/do-thanh-huy-0a9826209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/HuySaiGon100701/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/do_t_huy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<div align="center">
+  <sub>Thanks for visiting my profile! Have a nice day 😉</sub>
 </div>
